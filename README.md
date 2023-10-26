@@ -32,7 +32,8 @@ In addition to my core technology stack, I also utilize various other tools and 
 - **Version Control:** Git for efficient code management and collaboration. 🧑‍💻
 - **Package Managers:** I work with npm, bun, and pnpm for efficient package management. 📦
 - **Testing Tools:** I use Vitest for testing to ensure the reliability and quality of my code. 🧪
-
+- **Docker:** Containerization with Docker for streamlined development and deployment. 🐳
+- **Linting:** Utilizing ESLint for code quality and maintainability. 🚀
 
 ## Conclusion 🚀
 
