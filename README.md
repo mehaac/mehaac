@@ -1,7 +1,7 @@
 ## About Me
 
-I'm Mehaac(Mikhail), a dedicated Vue.js and Nuxt.js developer. With a strong passion for web development, I specialize in creating dynamic and responsive web applications using these frameworks. I enjoy staying up-to-date with the latest technologies and implementing them to build elegant and efficient web solutions.
+I'm a developer who specializes in creating web applications using Nuxt.js and Vue.js. With a strong passion for web development, I'm dedicated to crafting dynamic and responsive web applications with these powerful tools.
 
-- 💼 Currently working on exciting Vue.js and Nuxt.js projects.
+- 💼 Currently working on exciting projects using Nuxt.js and Vue.js.
 - 🚀 Always eager to learn and explore new possibilities in web development.
 - 💬 Let's connect and discuss web development, Vue.js, or Nuxt.js.
