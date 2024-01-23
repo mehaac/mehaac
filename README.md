@@ -1,6 +1,5 @@
 ## About Me 💻
 
-- 💼 Currently working on exciting projects using Nuxt.js and Vue.js.
 - 🚀 Always eager to learn and explore new possibilities in web development.
 - 💬 Let's connect and discuss web development, Vue.js, or Nuxt.js.
 
